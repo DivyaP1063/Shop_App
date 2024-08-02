@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Shop_App/static/css/main.e7859f3a.css",
+    "main.js": "/Shop_App/static/js/main.771420fa.js",
+    "static/js/453.0f4552a2.chunk.js": "/Shop_App/static/js/453.0f4552a2.chunk.js",
+    "static/media/backgreen.jpg": "/Shop_App/static/media/backgreen.8067dd3c5cf2edcb5eec.jpg",
+    "static/media/bag.jpg": "/Shop_App/static/media/bag.dc1efd50ac2526fc8637.jpg",
+    "static/media/clothes.jpg": "/Shop_App/static/media/clothes.b25f17f8804db0edbe32.jpg",
+    "static/media/laptop.jpg": "/Shop_App/static/media/laptop.eacc63c3d2bac5229c98.jpg",
+    "static/media/shoes.jpg": "/Shop_App/static/media/shoes.d875b6f41b66bd2284f0.jpg",
+    "static/media/hero-1.png": "/Shop_App/static/media/hero-1.b0e60a11ca56d7200f2a.png",
+    "static/media/partner1.png": "/Shop_App/static/media/partner1.e73fc31598d4c98835b1.png",
+    "static/media/shoesP.jpg": "/Shop_App/static/media/shoesP.c8e4bb3e881ea9ba2305.jpg",
+    "static/media/headphone.jpg": "/Shop_App/static/media/headphone.7beb4d50b95910f6408c.jpg",
+    "index.html": "/Shop_App/index.html",
+    "main.e7859f3a.css.map": "/Shop_App/static/css/main.e7859f3a.css.map",
+    "main.771420fa.js.map": "/Shop_App/static/js/main.771420fa.js.map",
+    "453.0f4552a2.chunk.js.map": "/Shop_App/static/js/453.0f4552a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7859f3a.css",
+    "static/js/main.771420fa.js"
+  ]
+}
