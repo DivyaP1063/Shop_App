@@ -49,15 +49,15 @@ const Template = () => {
   }
 
   return (
-    <div className="flex flex-row h-screen w-screen bg-gray-100">
-    <div className="bg-white rounded p-[100px] w-[40%]">
+    <div className="flex lg:flex-row max-lg:flex-col justify-center lg:h-screen w-full   bg-gray-100">
+    <div className="bg-white rounded px-[30px] py-[100px] lg:w-[40%]">
       <div className=" text-center">
         <h2 className="text-2xl font-bold text-gray-800">VibeVogue</h2>
         <p className="text-gray-600 text-lg mt-2">
           Hi there! 👋 Get started By Logging In.
         </p>
       </div>
-      <form onSubmit={handleSubmit} className="flex flex-col gap-5">
+      <form onSubmit={handleSubmit} className="mx-auto flex flex-col gap-5">
 
       <div >
           <label
@@ -120,7 +120,10 @@ const Template = () => {
       </form>
 
     </div>
-    <img className="w-[60%]" src={cover} alt=""/> 
+    <div className="lg:w-[60%] w-full">
+    <img className="w-full h-full object-cover" src={cover} alt=""/> 
+    </div>
+    
 
   </div>
   );

@@ -12,8 +12,8 @@ const Cartitems = ({post})=>{
     }
   return (
     <div className='w-full '>
-        <div className='w-full flex flex-row p-5'>
-            <div className='w-[30%]'>
+        <div className='w-full flex flex-row gap-3 p-2'>
+            <div className='w-[30%] my-auto'>
                 <img className='h-[150px] object-scale-down' src={post.image} alt='img'></img>
             </div>
 

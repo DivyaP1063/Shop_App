@@ -16,8 +16,8 @@ const SideBar = () => {
     const {sidebar}=useSelector((state)=>state);
     const dispatch=useDispatch();
   return (
-    <div className={` border-r-4 rounded-r shadow-lg shadow-zinc-950 border-lime-600 flex flex-col gap-5 bg-white fixed top-0 left-0 w-[17%] 
-    h-screen transition-all duration-100 ease-in ${sidebar? 'translate-x-0':'translate-x-[-100%]' }`}>
+    <div className={` border-r-4 rounded-r shadow-lg shadow-zinc-950 border-lime-600 flex flex-col gap-5 bg-white z-20 fixed top-0 left-0 max-lg:w-[60%] w-[20%] 
+    h-screen transition-all duration-200 ease-in ${sidebar? 'translate-x-0 ':'translate-x-[-100%]' }`}>
         <div className='flex flex-col gap-2 bg-green-900 p-[12.8px]'>
             <div className='flex flex-row items-center justify-between'>
             <div className='flex flex-row items-center gap-4'>

@@ -28,7 +28,7 @@ const Products = ({post}) => {
         toast.success("Item Added to Wishlist")
     }
   return (
-    <div className='relative bg-white w-[211px] h-[300px] flex flex-col border-2 border-gray-100 shadow-xl rounded-xl p-3 gap-2 hover:scale-110 transition-all duration-100 ease-in'>
+    <div className='relative bg-white max-lg:w-full lg:w-[211px] lg:h-[300px] flex flex-col border-2 border-gray-100 shadow-xl rounded-xl p-3 gap-2 hover:scale-110 transition-all duration-100 ease-in'>
         <div className='absolute top-[10px] right-[20px]'>
         {
         wish.some((p)=>p.id===post.id)?(<button onClick={removeFromWish}><FcLike fontSize='1.2rem' /></button>):
@@ -36,13 +36,13 @@ const Products = ({post}) => {
         }
         </div>
         <div className='px-2'>
-            <p className='text-[14px] px-3 font-bold text-slate-600'>{title.substr(0,14)}...</p>
+            <p className='text-[14px] max-lg:text-[30px] px-3 font-bold text-slate-600'>{title.substr(0,14)}...</p>
         </div>
         <div className='px-2 text-gray-500'>
-            <p className='text-[9px] px-3'>{desc.substr(0,60)}...</p>
+            <p className='text-[9px] max-lg:text-[15px] px-3'>{desc.substr(0,60)}...</p>
         </div>
         <div className='w-full h-[200px] flex flex-row justify-center items-center'>
-            <img className=' h-[150px] object-scale-down' src={post.image} alt='img'></img>
+            <img className=' lg:h-[150px] max-lg:h-[200px] object-scale-down' src={post.image} alt='img'></img>
         </div>
         <div className='flex flex-row justify-between items-center '>
         <div>
