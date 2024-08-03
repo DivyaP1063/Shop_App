@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Shop_App/static/css/main.e7859f3a.css",
-    "main.js": "/Shop_App/static/js/main.3808b739.js",
+    "main.css": "/Shop_App/static/css/main.8d5e6857.css",
+    "main.js": "/Shop_App/static/js/main.6c905928.js",
     "static/js/453.0f4552a2.chunk.js": "/Shop_App/static/js/453.0f4552a2.chunk.js",
     "static/media/backgreen.jpg": "/Shop_App/static/media/backgreen.8067dd3c5cf2edcb5eec.jpg",
     "static/media/bag.jpg": "/Shop_App/static/media/bag.dc1efd50ac2526fc8637.jpg",
@@ -13,12 +13,12 @@
     "static/media/shoesP.jpg": "/Shop_App/static/media/shoesP.c8e4bb3e881ea9ba2305.jpg",
     "static/media/headphone.jpg": "/Shop_App/static/media/headphone.7beb4d50b95910f6408c.jpg",
     "index.html": "/Shop_App/index.html",
-    "main.e7859f3a.css.map": "/Shop_App/static/css/main.e7859f3a.css.map",
-    "main.3808b739.js.map": "/Shop_App/static/js/main.3808b739.js.map",
+    "main.8d5e6857.css.map": "/Shop_App/static/css/main.8d5e6857.css.map",
+    "main.6c905928.js.map": "/Shop_App/static/js/main.6c905928.js.map",
     "453.0f4552a2.chunk.js.map": "/Shop_App/static/js/453.0f4552a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7859f3a.css",
-    "static/js/main.3808b739.js"
+    "static/css/main.8d5e6857.css",
+    "static/js/main.6c905928.js"
   ]
 }
