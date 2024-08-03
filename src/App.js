@@ -9,7 +9,7 @@ import Signup from "./pages/Signup";
 import Wishlist from "./pages/Wishlist"
 function App() {
   return (
-    <div className="relative App min-h-screen max-w-[100vw] overflow-hidden">
+    <div className="relative App min-h-screen max-w-[100vw] lg:overflow-hidden max-lg:overflow-visible">
     <Toaster/>
       <Routes>
       <Route path="/" element={<Landing/>} />
