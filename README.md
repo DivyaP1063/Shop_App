@@ -10,17 +10,17 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1727466925/Screenshot_2024-09-28_011913_w8rfve.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1727466925/Screenshot_2024-09-28_011913_w8rfve.png" alt="project-screenshot" >
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1727466927/Screenshot_2024-09-28_011959_bkcldc.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1727466927/Screenshot_2024-09-28_011959_bkcldc.png" alt="project-screenshot" >
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1727466926/Screenshot_2024-09-28_012151_g4d4gf.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1727466926/Screenshot_2024-09-28_012151_g4d4gf.png" alt="project-screenshot" >
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1727466927/Screenshot_2024-09-28_012232_sbfg3z.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1727466927/Screenshot_2024-09-28_012232_sbfg3z.png" alt="project-screenshot" >
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1727466927/Screenshot_2024-09-28_012303_pi6amr.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1727466927/Screenshot_2024-09-28_012303_pi6amr.png" alt="project-screenshot" >
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1727466926/Screenshot_2024-09-28_012413_dv49q3.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1727466926/Screenshot_2024-09-28_012413_dv49q3.png" alt="project-screenshot" >
 
   
   
